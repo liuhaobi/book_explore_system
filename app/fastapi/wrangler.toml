@@ -1,0 +1,8 @@
+name = "git-callback"
+main = "src/index.js"
+compatibility_date = "2026-09-06"
+
+[vars]
+SOURCEFORGE_CLIENT_ID = "d0aaa93827ded5b677c0"
+SOURCEFORGE_TOKEN_URL = "https://sourceforge.net/rest/oauth2/token"
+SOURCEFORGE_REDIRECT_URI = "https://git-callback.liuhaobin486.workers.dev/source/auth/callback"
